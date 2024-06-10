@@ -1,0 +1,16 @@
+C:\Users\ZaiyaanJattiem\source\repos\Search result\bin\Debug\net8.0-windows\Search result.exe
+C:\Users\ZaiyaanJattiem\source\repos\Search result\bin\Debug\net8.0-windows\Search result.deps.json
+C:\Users\ZaiyaanJattiem\source\repos\Search result\bin\Debug\net8.0-windows\Search result.runtimeconfig.json
+C:\Users\ZaiyaanJattiem\source\repos\Search result\bin\Debug\net8.0-windows\Search result.dll
+C:\Users\ZaiyaanJattiem\source\repos\Search result\bin\Debug\net8.0-windows\Search result.pdb
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search_result.Form1.resources
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.vbproj.GenerateResource.cache
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.AssemblyInfoInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.AssemblyInfo.vb
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.vbproj.CoreCompileInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.dll
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\refint\Search result.dll
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.pdb
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\Search result.genruntimeconfig.cache
+C:\Users\ZaiyaanJattiem\source\repos\Search result\obj\Debug\net8.0-windows\ref\Search result.dll
